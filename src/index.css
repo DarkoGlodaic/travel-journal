@@ -1,0 +1,83 @@
+html, body {
+    margin: 0;
+    font-family: Inter, system-ui, sans-serif;
+}
+
+.header {
+  margin: 0;
+  margin-bottom: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #5AF5B4;
+  color: #565868;
+  height: 60px;
+}
+
+.header > img {
+  width: 24px;
+  margin-right: 7px;
+  position: relative;
+  top: 2px;  
+}
+
+.header > h1 {
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+.entry {
+  display: flex;
+  max-width: 50%;
+  margin: auto;
+  align-items: left;
+  justify-content: left;
+  text-align: left;
+}
+
+.entry--image {
+  width: 125px;
+  height: 168px;
+  object-fit: cover;
+  margin-right: 20px;
+  border-radius: 5px;
+  flex-shrink: 0;
+}
+
+.entry--div {
+  margin-top: 10px;
+  color: #2B283A;
+  font-size: 0.7rem;
+}
+
+.entry--marker {
+  width: 7px;
+  margin-right:4px;
+}
+
+.entry--location {
+  letter-spacing: 2px;
+  font-weight: 350;
+  margin-right: 15px;
+}
+
+.entry--link {
+  font-weight: 200;
+  color: inherit;
+}
+
+.entry--title{
+  font-weight: 800;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  margin-top: 5px;
+}
+
+.entry--date{
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.entry--description{
+  font-weight: 300;
+}
