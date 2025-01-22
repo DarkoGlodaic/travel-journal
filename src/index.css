@@ -30,6 +30,7 @@ html, body {
   display: flex;
   max-width: 50%;
   margin: auto;
+  margin-bottom: 40px;
   align-items: left;
   justify-content: left;
   text-align: left;
