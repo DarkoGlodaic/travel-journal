@@ -11,18 +11,18 @@ html, body {
   align-items: center;
   background-color: #5AF5B4;
   color: #565868;
-  height: 60px;
+  height: 90px;
 }
 
 .header > img {
-  width: 24px;
+  width: 30px;
   margin-right: 7px;
   position: relative;
   top: 2px;  
 }
 
 .header > h1 {
-  font-size: 1.4rem;
+  font-size: 1.8rem;
   font-weight: 600;
 }
 
@@ -37,8 +37,8 @@ html, body {
 }
 
 .entry--image {
-  width: 135px;
-  height: 172px;
+  width: 200px;
+  height: 258px;
   object-fit: cover;
   margin-right: 20px;
   border-radius: 5px;
@@ -48,11 +48,11 @@ html, body {
 .entry--div {
   margin-top: 10px;
   color: #2B283A;
-  font-size: 0.7rem;
+  font-size: 1rem;
 }
 
 .entry--marker {
-  width: 7px;
+  width: 9px;
   margin-right:4px;
 }
 
