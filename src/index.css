@@ -30,15 +30,15 @@ html, body {
   display: flex;
   max-width: 50%;
   margin: auto;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
   align-items: left;
   justify-content: left;
   text-align: left;
 }
 
 .entry--image {
-  width: 125px;
-  height: 168px;
+  width: 135px;
+  height: 172px;
   object-fit: cover;
   margin-right: 20px;
   border-radius: 5px;
