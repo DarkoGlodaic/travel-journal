@@ -7,7 +7,7 @@ export default [
         },
         title: "Rome",
         country: "Italy",
-        googleMapsLink: "https://www.google.com/maps/search/?api=1&query=geirangerfjord+norway",
+        googleMapsLink: "https://www.google.com/maps/search/?api=1&query=rome+colosseo+italy",
         dates: "01 Oct, 2021 - 18 Nov, 2021",
         text: "Rome is the capital city of Italy, located in the central-western part of the country. It is home to the iconic Colosseum and boasts a rich history, with ancient ruins and cultural landmarks throughout the city."
     },
