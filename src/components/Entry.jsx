@@ -3,7 +3,7 @@ export default function Entry(props) {
         <article className="entry">
             <img className="entry--image" src={props.entry.img.src} alt={props.entry.img.alt}></img>
             <div className="entry--div">
-                <img className="entry--marker" src="src/images/marker.png" alt="marker icon"></img>
+                <img className="entry--marker" src="images/marker.png" alt="marker icon"></img>
                 <span className="entry--location">{props.entry.country}</span>
                 <a className="entry--link" href={props.entry.googleMapsLink}>View on Google Maps</a>
             

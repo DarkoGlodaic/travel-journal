@@ -2,7 +2,7 @@ export default [
     {
         id: 1,
         img: {
-            src: "/src/images/rome.jpg",
+            src: "images/rome.jpg",
             alt: "Rome"
         },
         title: "Rome",
@@ -14,7 +14,7 @@ export default [
     {
         id: 2,
         img: {
-            src: "/src/images/japan.jpg",
+            src: "images/japan.jpg",
             alt: "Mount Fuji"
         },
         title: "Mount Fuji",
@@ -26,7 +26,7 @@ export default [
     {
         id: 3,
         img: {
-            src: "/src/images/amsterdam.jpg",
+            src: "images/amsterdam.jpg",
             alt: "Amsterdam"
         },
         title: "Amsterdam",
@@ -38,7 +38,7 @@ export default [
     {
         id: 4,
         img: {
-            src: "/src/images/sydney.jpg",
+            src: "images/sydney.jpg",
             alt: "Sydney Opera House"
         },
         title: "Sydney Opera House",
@@ -50,7 +50,7 @@ export default [
     {
         id: 5,
         img: {
-            src: "/src/images/norway.jpg",
+            src: "images/norway.jpg",
             alt: "Geirangerfjord"
         },
         title: "Geirangerfjord",
